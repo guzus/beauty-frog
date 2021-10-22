@@ -1,0 +1,23 @@
+{
+  "name": "beauty-frog",
+  "version": "0.0.1",
+  "description": "NPM module that supports beautiful console-logging experience for Node JS",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guzus/beauty-frog.git"
+  },
+  "author": "guzus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guzus/beauty-frog/issues"
+  },
+  "homepage": "https://github.com/guzus/beauty-frog#readme"
+}
