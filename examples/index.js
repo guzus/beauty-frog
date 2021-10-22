@@ -1,9 +1,18 @@
-const { horizontalView } = require("beauty-frog");
+const {horizontalView} = require("../lib");
 
-horizontalView({
-  elements: [
-    "hi this is beauty-frog.\nHow do you like this package?",
-    "this is mind-blowing.\nI gotta tell my mom about this.\nI'm loving it.",
+console.log(horizontalView(
+  elements= [
+    `
+    hi this is beauty-frog.
+    How do you like this package?
+    :)
+    `,
+    `
+    this is mind-blowing.
+    I gotta tell my mom about this.
+    I'm loving it.
+    🔥
+    `,
   ],
-  blankCount: 5,
-});
+  width= 30
+));

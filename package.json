@@ -2,6 +2,13 @@
   "name": "beauty-frog",
   "version": "0.0.1",
   "description": "NPM module that supports beautiful console-logging experience for Node JS",
+  "keywords": [
+    "log",
+    "console",
+    "beautiful",
+    "frog",
+    "ui"
+  ],
   "main": "index.js",
   "directories": {
     "example": "examples",
