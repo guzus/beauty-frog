@@ -1,6 +1,6 @@
 {
   "name": "beauty-frog",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "NPM module that supports beautiful console-logging experience for Node JS",
   "keywords": [
     "log",
